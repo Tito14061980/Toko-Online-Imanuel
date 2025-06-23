@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+.produk {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 6px;
+}
+
+button {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
